@@ -1,5 +1,5 @@
 #https://www.youtube.com/watch?v=aw9wHbFTnAQ 
-CFLAGS=-std=c++14 -c -Wall
+CFLAGS=-std=c++14 -c -g -Wall
 
 all: list.out
 
@@ -17,3 +17,6 @@ run:
 
 clean:
 	rm -f list.out list.o client.o 
+	
+run-debug:
+	gdb ./list.out
