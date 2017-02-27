@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><dc:title>1. Complete the following self-referential class</dc:title><meta:initial-creator>20002403</meta:initial-creator><meta:editing-cycles>63</meta:editing-cycles><meta:creation-date>2013-03-25T14:14:03</meta:creation-date><dc:date>2017-02-13T22:14:36.102661206</dc:date><meta:editing-duration>PT7H57M1S</meta:editing-duration><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:object-count="457"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">UWI</meta:user-defined><meta:user-defined meta:name="HiddenSlides" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="MMClips" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Notes" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="PresentationFormat" meta:value-type="string">On-screen Show (4:3)</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Slides" meta:value-type="float">8</meta:user-defined></office:meta>
+ <office:meta><dc:title>1. Complete the following self-referential class</dc:title><meta:initial-creator>20002403</meta:initial-creator><meta:editing-cycles>64</meta:editing-cycles><meta:creation-date>2013-03-25T14:14:03</meta:creation-date><dc:date>2017-02-27T13:46:45.797588007</dc:date><meta:editing-duration>PT7H57M56S</meta:editing-duration><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><meta:document-statistic meta:object-count="458"/><meta:user-defined meta:name="AppVersion">12.0000</meta:user-defined><meta:user-defined meta:name="Company">UWI</meta:user-defined><meta:user-defined meta:name="HiddenSlides" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="HyperlinksChanged" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="LinksUpToDate" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="MMClips" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="Notes" meta:value-type="float">0</meta:user-defined><meta:user-defined meta:name="PresentationFormat" meta:value-type="string">On-screen Show (4:3)</meta:user-defined><meta:user-defined meta:name="ScaleCrop" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="ShareDoc" meta:value-type="boolean">false</meta:user-defined><meta:user-defined meta:name="Slides" meta:value-type="float">8</meta:user-defined></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-283</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">-3244</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">32096</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">19749</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">32095</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">19748</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">15</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -1565,29 +1565,29 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="9.294cm" svg:height="6.97cm" svg:x="11.295cm" svg:y="18.531cm"/>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="26.543cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="26.543cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="Title_20_and_20_Content" style:display-name="Title and Content" style:page-layout-name="PM1" draw:style-name="dp1">
    <draw:frame draw:name="Title 1" presentation:style-name="pr1" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="22.859cm" svg:height="3.174cm" svg:x="1.27cm" svg:y="0.763cm" presentation:class="title" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">C</text:span><text:span text:style-name="T2">li</text:span><text:span text:style-name="T2">c</text:span><text:span text:style-name="T2">k </text:span><text:span text:style-name="T2">t</text:span><text:span text:style-name="T2">o </text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">di</text:span><text:span text:style-name="T2">t </text:span><text:span text:style-name="T2">M</text:span><text:span text:style-name="T2">a</text:span><text:span text:style-name="T2">st</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">r </text:span><text:span text:style-name="T2">ti</text:span><text:span text:style-name="T2">tl</text:span><text:span text:style-name="T2">e </text:span><text:span text:style-name="T2">st</text:span><text:span text:style-name="T2">yl</text:span><text:span text:style-name="T2">e</text:span></text:p>
+     <text:p text:style-name="P5"><text:span text:style-name="T2">Click to edit Master title style</text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:name="Content Placeholder 2" presentation:style-name="pr2" draw:text-style-name="P12" draw:layer="backgroundobjects" svg:width="22.859cm" svg:height="12.571cm" svg:x="1.27cm" svg:y="4.445cm" presentation:class="outline" presentation:user-transformed="true">
@@ -1691,17 +1691,17 @@
    </draw:frame>
    <draw:frame draw:name="Date Placeholder 3" presentation:style-name="pr3" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="5.926cm" svg:height="1.013cm" svg:x="1.27cm" svg:y="17.657cm" presentation:class="date-time" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P13"><text:span text:style-name="T7"><text:date style:data-style-name="D1" text:date-value="2017-02-13">2/13/17</text:date></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P13"><text:span text:style-name="T7"><text:date style:data-style-name="D1" text:date-value="2017-02-27">2/27/17</text:date></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:name="Footer Placeholder 4" presentation:style-name="pr3" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="8.042cm" svg:height="1.013cm" svg:x="8.678cm" svg:y="17.657cm" presentation:class="footer" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P15"><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:name="Slide Number Placeholder 5" presentation:style-name="pr3" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="5.926cm" svg:height="1.013cm" svg:x="18.203cm" svg:y="17.657cm" presentation:class="page-number" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P16"><text:span text:style-name="T7"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P16"><text:span text:style-name="T7"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
@@ -1721,77 +1721,78 @@
     <draw:frame presentation:style-name="Title_20_and_20_Content-notes" draw:layer="backgroundobjects" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
+    <draw:frame presentation:style-name="Title_20_and_20_Content-notes" draw:layer="backgroundobjects" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
     <draw:frame presentation:style-name="pr4" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr4" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="26.543cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="26.543cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
   </style:master-page>
   <style:master-page style:name="Title_20_Slide" style:display-name="Title Slide" style:page-layout-name="PM1" draw:style-name="dp1">
-   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:frame draw:name="Title 1" presentation:style-name="pr6" draw:text-style-name="P6" draw:layer="backgroundobjects" svg:width="21.589cm" svg:height="4.082cm" svg:x="1.905cm" svg:y="5.918cm" presentation:class="title" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P5"><text:span text:style-name="T2">C</text:span><text:span text:style-name="T2">li</text:span><text:span text:style-name="T2">c</text:span><text:span text:style-name="T2">k </text:span><text:span text:style-name="T2">t</text:span><text:span text:style-name="T2">o </text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">di</text:span><text:span text:style-name="T2">t </text:span><text:span text:style-name="T2">M</text:span><text:span text:style-name="T2">a</text:span><text:span text:style-name="T2">st</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">r </text:span><text:span text:style-name="T2">ti</text:span><text:span text:style-name="T2">tl</text:span><text:span text:style-name="T2">e </text:span><text:span text:style-name="T2">st</text:span><text:span text:style-name="T2">yl</text:span><text:span text:style-name="T2">e</text:span></text:p>
+     <text:p text:style-name="P5"><text:span text:style-name="T2">Click to edit Master title style</text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:name="Date Placeholder 3" presentation:style-name="pr7" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="5.926cm" svg:height="1.013cm" svg:x="1.27cm" svg:y="17.657cm" presentation:class="date-time" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P13"><text:span text:style-name="T7"><text:date style:data-style-name="D1" text:date-value="2017-02-13">2/13/17</text:date></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P13"><text:span text:style-name="T7"><text:date style:data-style-name="D1" text:date-value="2017-02-27">2/27/17</text:date></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><text:span text:style-name="T8"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:name="Footer Placeholder 4" presentation:style-name="pr7" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="8.042cm" svg:height="1.013cm" svg:x="8.678cm" svg:y="17.657cm" presentation:class="footer" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P15"><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><text:span text:style-name="T8"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:name="Slide Number Placeholder 5" presentation:style-name="pr7" draw:text-style-name="P14" draw:layer="backgroundobjects" svg:width="5.926cm" svg:height="1.013cm" svg:x="18.203cm" svg:y="17.657cm" presentation:class="page-number" presentation:user-transformed="true">
     <draw:text-box>
-     <text:p text:style-name="P16"><text:span text:style-name="T7"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P16"><text:span text:style-name="T7"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T8"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="Title_20_Slide-outline1" draw:layer="backgroundobjects" svg:width="22.859cm" svg:height="11.048cm" svg:x="1.27cm" svg:y="4.457cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="Title_20_Slide-title" draw:layer="backgroundobjects" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" presentation:class="page"/>
     <draw:frame presentation:style-name="Title_20_Slide-notes" draw:layer="backgroundobjects" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
     <draw:frame presentation:style-name="pr8" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr8" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr9" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="0cm" svg:y="26.543cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr9" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.369cm" svg:height="1.396cm" svg:x="12.22cm" svg:y="26.543cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -1827,7 +1828,7 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="22.859cm" svg:height="3.18cm" svg:x="1.271cm" svg:y="0.759cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">C</text:span><text:span text:style-name="T11">r</text:span><text:span text:style-name="T11">a</text:span><text:span text:style-name="T11">s</text:span><text:span text:style-name="T11">h</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T11">T</text:span><text:span text:style-name="T11">r</text:span><text:span text:style-name="T11">a</text:span><text:span text:style-name="T11">c</text:span><text:span text:style-name="T11">e</text:span></text:p>
+      <text:p><text:span text:style-name="T11">Crash Trace</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:name="Rectangle 19" draw:style-name="gr3" draw:text-style-name="P18" draw:layer="layout" svg:width="1.095cm" svg:height="1.122cm" svg:x="17.526cm" svg:y="8.022cm">
@@ -1913,7 +1914,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="TextBox 9" draw:style-name="gr10" draw:text-style-name="P24" draw:layer="layout" svg:width="5.528cm" svg:height="1.013cm" svg:x="15.299cm" svg:y="0cm">
-     <text:p text:style-name="P17"><text:span text:style-name="T12">HEAP Memory</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T12">HEAP </text:span><text:span text:style-name="T12">Memor</text:span><text:span text:style-name="T12">y</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
       <draw:equation draw:name="f1" draw:formula="logheight/2"/>
@@ -1921,42 +1922,42 @@
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr11" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr11" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:name="Subtitle 2" draw:style-name="gr12" draw:text-style-name="P28" draw:layer="layout" svg:width="12.304cm" svg:height="5.595cm" svg:x="0.045cm" svg:y="13.393cm">
-     <text:p text:style-name="P27"><text:span text:style-name="T14">int main() </text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14">{ <text:s text:c="4"/></text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14">in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">ma</text:span><text:span text:style-name="T14">in</text:span><text:span text:style-name="T14">() </text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14">{ <text:s/></text:span><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Li</text:span><text:span text:style-name="T14">st </text:span><text:span text:style-name="T14">L;</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.</text:span><text:span text:style-name="T14">in</text:span><text:span text:style-name="T14">se</text:span><text:span text:style-name="T14">rt</text:span><text:span text:style-name="T14">(5</text:span><text:span text:style-name="T14">,1</text:span><text:span text:style-name="T14">);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.</text:span><text:span text:style-name="T14">in</text:span><text:span text:style-name="T14">se</text:span><text:span text:style-name="T14">rt</text:span><text:span text:style-name="T14">(8</text:span><text:span text:style-name="T14">,1</text:span><text:span text:style-name="T14">);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.</text:span><text:span text:style-name="T14">in</text:span><text:span text:style-name="T14">se</text:span><text:span text:style-name="T14">rt</text:span><text:span text:style-name="T14">(7</text:span><text:span text:style-name="T14">,3</text:span><text:span text:style-name="T14">); </text:span><text:span text:style-name="T14"><text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -2002,7 +2003,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="TextBox 9" draw:style-name="gr10" draw:text-style-name="P20" draw:layer="layout" svg:width="5.528cm" svg:height="1.013cm" svg:x="15.299cm" svg:y="0cm">
-     <text:p text:style-name="P17"><text:span text:style-name="T12">HEAP Memory</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T12">HE</text:span><text:span text:style-name="T12">AP </text:span><text:span text:style-name="T12">M</text:span><text:span text:style-name="T12">e</text:span><text:span text:style-name="T12">m</text:span><text:span text:style-name="T12">or</text:span><text:span text:style-name="T12">y</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
       <draw:equation draw:name="f1" draw:formula="logheight/2"/>
@@ -2019,7 +2020,7 @@
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -2034,23 +2035,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -2066,13 +2067,13 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="Subtitle 2" draw:style-name="gr12" draw:text-style-name="P28" draw:layer="layout" svg:width="12.304cm" svg:height="5.595cm" svg:x="0.045cm" svg:y="13.393cm">
-     <text:p text:style-name="P27"><text:span text:style-name="T14">int main() </text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">main(</text:span><text:span text:style-name="T14">) </text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">{ <text:s text:c="4"/></text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List </text:span><text:span text:style-name="T14">L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.ins</text:span><text:span text:style-name="T14">ert(5</text:span><text:span text:style-name="T14">,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.ins</text:span><text:span text:style-name="T14">ert(8</text:span><text:span text:style-name="T14">,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.ins</text:span><text:span text:style-name="T14">ert(7</text:span><text:span text:style-name="T14">,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -2091,7 +2092,6 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="3" presentation:class="page"/>
      <draw:frame presentation:style-name="pr14" draw:text-style-name="P22" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
@@ -2128,7 +2128,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="TextBox 9" draw:style-name="gr10" draw:text-style-name="P20" draw:layer="layout" svg:width="5.528cm" svg:height="1.013cm" svg:x="15.299cm" svg:y="0cm">
-     <text:p text:style-name="P17"><text:span text:style-name="T12">HEAP Memory</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T12">HEA</text:span><text:span text:style-name="T12">P </text:span><text:span text:style-name="T12">Me</text:span><text:span text:style-name="T12">mor</text:span><text:span text:style-name="T12">y</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
       <draw:equation draw:name="f1" draw:formula="logheight/2"/>
@@ -2145,7 +2145,7 @@
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -2160,23 +2160,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -2192,13 +2192,13 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="Subtitle 2" draw:style-name="gr12" draw:text-style-name="P28" draw:layer="layout" svg:width="12.304cm" svg:height="5.595cm" svg:x="0.045cm" svg:y="13.393cm">
-     <text:p text:style-name="P27"><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">mai</text:span><text:span text:style-name="T14">n() </text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14">{ <text:s text:c="2"/></text:span><text:span text:style-name="T14"><text:s text:c="2"/></text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Lis</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">L;</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14"><text:s text:c="2"/></text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.i</text:span><text:span text:style-name="T14">nse</text:span><text:span text:style-name="T14">rt(</text:span><text:span text:style-name="T14">5,1</text:span><text:span text:style-name="T14">);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.</text:span><text:span text:style-name="T14">ins</text:span><text:span text:style-name="T14">ert</text:span><text:span text:style-name="T14">(8,</text:span><text:span text:style-name="T14">1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.</text:span><text:span text:style-name="T14">ins</text:span><text:span text:style-name="T14">ert</text:span><text:span text:style-name="T14">(7,</text:span><text:span text:style-name="T14">3); </text:span><text:span text:style-name="T14"><text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14">int main() </text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14">{ <text:s text:c="4"/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -2247,7 +2247,6 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="4" presentation:class="page"/>
      <draw:frame presentation:style-name="pr14" draw:text-style-name="P22" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
@@ -2266,7 +2265,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="TextBox 6" draw:style-name="gr10" draw:text-style-name="P20" draw:layer="layout" svg:width="2.027cm" svg:height="1.013cm" svg:x="23.222cm" svg:y="16.038cm">
-     <text:p text:style-name="P17"><text:span text:style-name="T15">m</text:span><text:span text:style-name="T15">a</text:span><text:span text:style-name="T15">i</text:span><text:span text:style-name="T15">n</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T15">main</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
       <draw:equation draw:name="f1" draw:formula="logheight/2"/>
@@ -2301,7 +2300,7 @@
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -2316,23 +2315,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -2353,8 +2352,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -2370,7 +2369,6 @@
      <text:p/>
     </draw:line>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="5" presentation:class="page"/>
      <draw:frame presentation:style-name="pr14" draw:text-style-name="P22" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
@@ -2425,7 +2423,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="TextBox 9" draw:style-name="gr10" draw:text-style-name="P20" draw:layer="layout" svg:width="5.528cm" svg:height="1.013cm" svg:x="15.299cm" svg:y="0cm">
-     <text:p text:style-name="P17"><text:span text:style-name="T12">HE</text:span><text:span text:style-name="T12">AP </text:span><text:span text:style-name="T12">M</text:span><text:span text:style-name="T12">e</text:span><text:span text:style-name="T12">m</text:span><text:span text:style-name="T12">or</text:span><text:span text:style-name="T12">y</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T12">HEAP Memory</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
       <draw:equation draw:name="f1" draw:formula="logheight/2"/>
@@ -2442,7 +2440,7 @@
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -2474,7 +2472,7 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <draw:custom-shape draw:name="TextBox 110" draw:style-name="gr10" draw:text-style-name="P20" draw:layer="layout" svg:width="3.335cm" svg:height="1.098cm" svg:x="16.587cm" svg:y="9.965cm">
-     <text:p text:style-name="P17"><text:span text:style-name="T18">ne</text:span><text:span text:style-name="T18">w</text:span><text:span text:style-name="T18">Pt</text:span><text:span text:style-name="T18">r</text:span></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T18">newPtr</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
       <draw:equation draw:name="f1" draw:formula="logheight/2"/>
@@ -2566,23 +2564,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -2603,8 +2601,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -2647,7 +2645,6 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="6" presentation:class="page"/>
      <draw:frame presentation:style-name="pr14" draw:text-style-name="P22" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
@@ -2719,7 +2716,7 @@
       <draw:equation draw:name="f3" draw:formula="logwidth"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -2861,23 +2858,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -2898,8 +2895,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -2924,7 +2921,6 @@
      </draw:enhanced-geometry>
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="13.968cm" svg:height="10.476cm" svg:x="3.81cm" svg:y="2.123cm" draw:page-number="7" presentation:class="page"/>
      <draw:frame presentation:style-name="pr14" draw:text-style-name="P22" draw:layer="layout" svg:width="17.271cm" svg:height="12.572cm" svg:x="2.159cm" svg:y="13.271cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
@@ -3030,7 +3026,7 @@
     <draw:line draw:name="Straight Connector 75" draw:style-name="gr4" draw:text-style-name="P19" draw:layer="layout" svg:x1="15.622cm" svg:y1="2.439cm" svg:x2="16.159cm" svg:y2="1.348cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -3181,23 +3177,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -3218,8 +3214,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -3343,7 +3339,7 @@
     <draw:line draw:name="Straight Connector 75" draw:style-name="gr4" draw:text-style-name="P19" draw:layer="layout" svg:x1="15.622cm" svg:y1="2.439cm" svg:x2="16.159cm" svg:y2="1.348cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -3485,23 +3481,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -3522,8 +3518,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -3647,7 +3643,7 @@
     <draw:line draw:name="Straight Connector 75" draw:style-name="gr4" draw:text-style-name="P19" draw:layer="layout" svg:x1="15.622cm" svg:y1="2.439cm" svg:x2="16.159cm" svg:y2="1.348cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -3789,23 +3785,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -3826,8 +3822,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -3951,7 +3947,7 @@
     <draw:line draw:name="Straight Connector 75" draw:style-name="gr4" draw:text-style-name="P19" draw:layer="layout" svg:x1="15.622cm" svg:y1="2.439cm" svg:x2="16.159cm" svg:y2="1.348cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -4084,23 +4080,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -4121,8 +4117,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -4415,23 +4411,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -4452,8 +4448,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -4777,23 +4773,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -4814,8 +4810,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -5077,23 +5073,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -5114,8 +5110,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -5377,23 +5373,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P35" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -5414,8 +5410,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
@@ -5530,7 +5526,7 @@
     <draw:line draw:name="Straight Connector 75" draw:style-name="gr4" draw:text-style-name="P19" draw:layer="layout" svg:x1="15.622cm" svg:y1="2.439cm" svg:x2="16.159cm" svg:y2="1.348cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.632cm">
+    <draw:custom-shape draw:name="Straight Arrow Connector 33" draw:style-name="gr15" draw:text-style-name="P19" draw:layer="layout" svg:width="1.074cm" svg:height="0.357cm" svg:x="15.944cm" svg:y="-1.634cm">
      <text:p/>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="true" svg:viewBox="0 0 21600 21600" draw:type="mso-spt32" draw:enhanced-path="M 0 0 L 21600 21600 N"/>
     </draw:custom-shape>
@@ -5554,23 +5550,23 @@
     </draw:custom-shape>
     <draw:frame draw:name="Subtitle 2" presentation:style-name="pr13" draw:text-style-name="P26" draw:layer="layout" svg:width="13.969cm" svg:height="17.603cm" svg:x="0cm" svg:y="0.217cm" presentation:class="subtitle" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T14">void </text:span><text:span text:style-name="T14">List:</text:span><text:span text:style-name="T14">:inse</text:span><text:span text:style-name="T14">rt(in</text:span><text:span text:style-name="T14">t </text:span><text:span text:style-name="T14">num, </text:span><text:span text:style-name="T14">int </text:span><text:span text:style-name="T14">k)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14">void List::insert(int num, int k)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">new </text:span><text:span text:style-name="T14">Node{</text:span><text:span text:style-name="T14">num};</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* </text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* newPtr = new Node{num};</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">Node* iPtr = frontPtr;</text:span><text:span text:style-name="T14"><text:tab/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k </text:span><text:span text:style-name="T14">== 1)</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">if(k == 1)</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">{</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">front</text:span><text:span text:style-name="T14">Ptr = </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">retur</text:span><text:span text:style-name="T14">n;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr-&gt;link = frontPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">frontPtr = newPtr;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">return;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="4"/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(i</text:span><text:span text:style-name="T14">nt i </text:span><text:span text:style-name="T14">= 1; </text:span><text:span text:style-name="T14">i &lt; </text:span><text:span text:style-name="T14">k-1; </text:span><text:span text:style-name="T14">i++) </text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">iPtr </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span><text:span text:style-name="T14">for(int i = 1; i &lt; k-1; i++) </text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="10"/></text:span><text:span text:style-name="T14">iPtr = iPtr-&gt;link;</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:tab/></text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r = </text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">;</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-</text:span><text:span text:style-name="T14">&gt;link </text:span><text:span text:style-name="T14">= </text:span><text:span text:style-name="T14">newPt</text:span><text:span text:style-name="T14">r-</text:span><text:span text:style-name="T14">&gt;link</text:span><text:span text:style-name="T14">; <text:s/></text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">newPtr = iPtr-&gt;link;</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="6"/></text:span><text:span text:style-name="T14">iPtr-&gt;link = newPtr-&gt;link; <text:s/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14">}</text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s text:c="5"/></text:span></text:p>
       <text:p text:style-name="P25"><text:span text:style-name="T14"><text:s/></text:span></text:p>
@@ -5591,8 +5587,8 @@
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">List L;</text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="6"/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(5,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(8,1);</text:span></text:p>
-     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L1.insert(7,3); <text:s/></text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(8,1);</text:span></text:p>
+     <text:p text:style-name="P27"><text:span text:style-name="T14"><text:s text:c="3"/></text:span><text:span text:style-name="T14">L.insert(7,3); <text:s/></text:span></text:p>
      <text:p text:style-name="P27"><text:span text:style-name="T14">}</text:span></text:p>
      <draw:enhanced-geometry draw:mirror-horizontal="false" draw:mirror-vertical="false" svg:viewBox="0 0 0 0" draw:text-areas="0 0 ?f3 ?f2" draw:type="ooxml-rect" draw:enhanced-path="M 0 0 L ?f3 0 ?f3 ?f2 0 ?f2 Z N">
       <draw:equation draw:name="f0" draw:formula="logwidth/2"/>
